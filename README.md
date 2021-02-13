@@ -6,7 +6,10 @@ Forthcoming...
 # Constructor Injection
 Go in `src/main/java/dal/tp1/ex1/constructor_injection`, and you can run `QuizProgram`
 
-You can modify the QuizMaster class, by modifing ```xml<bean id="quizMasterBean" class="dal.tp1.ex1.constructor_injection.CMMQuiz"/>```
+You can modify the QuizMaster class, by modifing 
+```xml
+<bean id="quizMasterBean" class="dal.tp1.ex1.constructor_injection.CMMQuiz"/>
+```
 
 
 # Setter Injection
